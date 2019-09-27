@@ -36,6 +36,10 @@ User Experience
 
 - Buyer
 
+Here is an example of the customer journey map.
+
+![customer_journey_map](images/customer_journey_map_ex.png)
+
 User Testing
 
 - A/B Testing for Interface
