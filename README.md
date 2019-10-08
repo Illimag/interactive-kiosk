@@ -1,10 +1,12 @@
 # Interactive Kiosk UI
 
-## Prompt:
-
-This is a concept. 
+## Context
 
 Amazon lockers and Craiglist have developed a service that will help people sell their unwanted electronic possessions using a new type of interactive kiosk.
+
+## Source Code
+
+Development of the prototype in React.JS.
 
 ## Directive
 
@@ -55,5 +57,3 @@ Documentation
 1:1 Foam-Board
 
 Printed Graphics
-
-
